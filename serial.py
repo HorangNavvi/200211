@@ -1,15 +1,3 @@
-git add . 
--> add all the untracked files
-git commit -m"blabla"
--> commit with messages
-git push origin master
--> push to master branch
-
-Hi, my name is HG.
-
-Hello Navvi.
-
-<<<<<<< HEAD
 import serial
 import RPi.GPIO as GPIO
 import time
@@ -33,6 +21,3 @@ read_ser=ser.readline()
 print(read_ser)
 if(read_ser=="Hello From Arduino!"):
 blink(11)
-=======
-winnerwinner drone winner
->>>>>>> a3e507c1e4344dbaf858530562044e5587a9fd91
