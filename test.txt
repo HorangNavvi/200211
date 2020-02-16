@@ -7,7 +7,8 @@ git push origin master
 
 Hi, my name is HG.
 <<<<<<< HEAD
-Hi, I'm Jo. I like HorangNabi
+Hi, I'm Jo. I like HorangNavi
+
 =======
 
 Hello Navvi.
